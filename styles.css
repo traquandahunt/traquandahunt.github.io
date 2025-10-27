@@ -27,3 +27,8 @@ border-radius: 25%;
     /* center the images inside the blobs */
     text-align: center;
 }
+.project p {
+    /* center the p text in the blob */
+    text-align: center;
+    margin: 15px;
+}
